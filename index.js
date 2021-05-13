@@ -22,6 +22,7 @@ function mapToDouble(numbers) {
   }
   return double
 };
+<<<<<<< HEAD
 
 function mapToSquare(numbers) {
   let sq = []
@@ -55,3 +56,5 @@ function reduceToAnyTrue(sourceArray) {
   }
   return false;
 }
+=======
+>>>>>>> 6eea9fa39b321d158fa54a128fd05bd485942ebe
